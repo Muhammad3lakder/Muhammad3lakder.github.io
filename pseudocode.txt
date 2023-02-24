@@ -1,0 +1,4 @@
+1.Create a intro for what the site is about.
+2.Quick intro about your self.
+3.alert the user for being here.
+4.You may add responsive design.
